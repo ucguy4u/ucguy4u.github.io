@@ -1,7 +1,7 @@
 {
   "name": "Uday_Chauhan_Portfolio",
   "version": "0.1.1",
-  "homepage": "https://ucguy4u.github.com/ucguy4u.github.io",
+  "homepage": "https://ucguy4u.github.io/ucguy4u.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
