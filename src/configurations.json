@@ -1,0 +1,118 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "night",
+  "devIntro": "Hi, I am Uday Chauhan",
+  "devDesc": "Engineer | Blogger | Traveller | On the way to become a Billion Dollar Hippy...",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-facebook",
+      "url": "https://facebook.com/chauhanuday"
+    },
+    {
+      "image": "fa-github",
+      "url": "https://github.com/ucguy4u"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/ucguy4u"
+    },
+    {
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/ucguy4u/"
+    },
+    {
+      "image": "fa-stack-overflow",
+      "url": "https://stackoverflow.com/users/6821936/uday-chauhan"
+    },
+    {
+      "image": "fa-medium",
+      "url": "https://medium.com/@chauhan.s.uday26"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/chauhanuday/"
+    },
+    {
+      "image": "fa-snapchat",
+      "url": "https://snapchat.com/add/ucguy4u"
+    },
+    {
+      "image": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UC9LO9K-7uBTihd2aMV-NHKg"
+    }
+    ,
+    {
+      "image": "fa-soundcloud",
+      "url": "https://soundcloud.com/uday-chauhan-372471043"
+    }
+    ,
+    {
+      "image": "fa-quora",
+      "url": "https://quora.com/profile/Uday-Chauhan-6"
+    }
+    ,
+    {
+      "image": "fa-angellist",
+      "url": "https://angel.co/chauhanuday"
+    }
+    ,
+    {
+      "image": "fa-blogger",
+      "url": "https://whatdehack.blogspot.com/"
+    }
+    ,
+    {
+      "image": "fa-goodreads",
+      "url": "https://www.goodreads.com/chauhanuday"
+    }
+    ,
+    {
+      "image": "fa-stack-exchange",
+      "url": "https://stackexchange.com/users/9176481/uday-chauhan"
+    }
+    ,
+    {
+      "image": "fa-twitch",
+      "url": "https://www.twitch.tv/ucguy4u"
+    }
+    ,
+    {
+      "image": "fa-tumblr",
+      "url": "https://ucguy4u.tumblr.com/"
+    }
+    ,
+    {
+      "image": "fa-pinterest",
+      "url": "https://in.pinterest.com/ucguy4u/"
+    }
+    ,
+    {
+      "image": "fa-reddit",
+      "url": "https://www.reddit.com/user/ucguy4u"
+    }
+    ,
+    {
+      "image": "fa-strava",
+      "url": "https://www.strava.com/athletes/ucguy4u"
+    }
+    ,
+    {
+      "image": "fa-vimeo",
+      "url": "https://vimeo.com/ucguy4u"
+    }
+    ,
+    {
+      "image": "fa-xing",
+      "url": "https://www.xing.com/profile/Uday_Chauhan?sc_o=mxb_p"
+    }
+    ,
+    {
+      "image": "fa-500px",
+      "url": "https://500px.com/chauhansuday"
+    }
+    
+
+  ]
+}
