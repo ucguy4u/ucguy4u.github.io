@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ucguy4u.github.io/static/css/main.1db571a8.chunk.css",
+    "main.js": "/ucguy4u.github.io/static/js/main.0619c958.chunk.js",
+    "main.js.map": "/ucguy4u.github.io/static/js/main.0619c958.chunk.js.map",
+    "runtime-main.js": "/ucguy4u.github.io/static/js/runtime-main.639be930.js",
+    "runtime-main.js.map": "/ucguy4u.github.io/static/js/runtime-main.639be930.js.map",
+    "static/js/2.8eb09a4f.chunk.js": "/ucguy4u.github.io/static/js/2.8eb09a4f.chunk.js",
+    "static/js/2.8eb09a4f.chunk.js.map": "/ucguy4u.github.io/static/js/2.8eb09a4f.chunk.js.map",
+    "index.html": "/ucguy4u.github.io/index.html",
+    "precache-manifest.383456f150bf34f66f46a560d28b564a.js": "/ucguy4u.github.io/precache-manifest.383456f150bf34f66f46a560d28b564a.js",
+    "service-worker.js": "/ucguy4u.github.io/service-worker.js",
+    "static/css/main.1db571a8.chunk.css.map": "/ucguy4u.github.io/static/css/main.1db571a8.chunk.css.map",
+    "static/js/2.8eb09a4f.chunk.js.LICENSE.txt": "/ucguy4u.github.io/static/js/2.8eb09a4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639be930.js",
+    "static/js/2.8eb09a4f.chunk.js",
+    "static/css/main.1db571a8.chunk.css",
+    "static/js/main.0619c958.chunk.js"
+  ]
+}
