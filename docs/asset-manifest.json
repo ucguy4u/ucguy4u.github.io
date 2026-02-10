@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1db571a8.chunk.css",
-    "main.js": "/static/js/main.2c1074ec.chunk.js",
-    "main.js.map": "/static/js/main.2c1074ec.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a89c3ca2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a89c3ca2.js.map",
-    "static/js/2.8eb09a4f.chunk.js": "/static/js/2.8eb09a4f.chunk.js",
-    "static/js/2.8eb09a4f.chunk.js.map": "/static/js/2.8eb09a4f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.19e95f02f45de22174e3f2214265a0ef.js": "/precache-manifest.19e95f02f45de22174e3f2214265a0ef.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1db571a8.chunk.css.map": "/static/css/main.1db571a8.chunk.css.map",
-    "static/js/2.8eb09a4f.chunk.js.LICENSE.txt": "/static/js/2.8eb09a4f.chunk.js.LICENSE.txt"
+    "main.css": "/ucguy4u.github.io/static/css/main.33314a91.css",
+    "main.js": "/ucguy4u.github.io/static/js/main.e4b2af4c.js",
+    "index.html": "/ucguy4u.github.io/index.html",
+    "main.33314a91.css.map": "/ucguy4u.github.io/static/css/main.33314a91.css.map",
+    "main.e4b2af4c.js.map": "/ucguy4u.github.io/static/js/main.e4b2af4c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a89c3ca2.js",
-    "static/js/2.8eb09a4f.chunk.js",
-    "static/css/main.1db571a8.chunk.css",
-    "static/js/main.2c1074ec.chunk.js"
+    "static/css/main.33314a91.css",
+    "static/js/main.e4b2af4c.js"
   ]
 }
