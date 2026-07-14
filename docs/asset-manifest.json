@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ucguy4u.github.io/static/css/main.33314a91.css",
-    "main.js": "/ucguy4u.github.io/static/js/main.e4b2af4c.js",
-    "index.html": "/ucguy4u.github.io/index.html",
-    "main.33314a91.css.map": "/ucguy4u.github.io/static/css/main.33314a91.css.map",
-    "main.e4b2af4c.js.map": "/ucguy4u.github.io/static/js/main.e4b2af4c.js.map"
+    "main.css": "/static/css/main.33314a91.css",
+    "main.js": "/static/js/main.40796f70.js",
+    "index.html": "/index.html",
+    "main.33314a91.css.map": "/static/css/main.33314a91.css.map",
+    "main.40796f70.js.map": "/static/js/main.40796f70.js.map"
   },
   "entrypoints": [
     "static/css/main.33314a91.css",
-    "static/js/main.e4b2af4c.js"
+    "static/js/main.40796f70.js"
   ]
 }
